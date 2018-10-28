@@ -1,4 +1,4 @@
-# easy-vue-cli-for-multiple [TODO...]
+# easy-vue-cli-for-multiple
 >基于Vue-cli的多页面应用构建
 
 ## Build Setup
