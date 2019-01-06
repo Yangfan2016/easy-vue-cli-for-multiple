@@ -1,8 +1,6 @@
 // 首页的API接口
 import Yan from "yanjs";
-import config from "../utils/config.js"
-import { resolve } from "url";
-import { rejects } from "assert";
+import config from "../utils/config.js";
 
 
 export default {
